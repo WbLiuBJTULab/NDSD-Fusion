@@ -1,6 +1,6 @@
 # NDSD-Fusion
 
-This is a official code release of NDSD-Fusion for 3D Object Detection. 
+This is a official code release of NDSD-Fusion for 3D object detection. 
 
 ## Getting Started
 
