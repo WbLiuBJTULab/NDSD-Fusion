@@ -53,7 +53,7 @@ ndsd
 cd ndsd
 python setup.py develop
 </pre>
-## Training and Validation.
+## Training and Validation
 
 For training the ndsd:
 
