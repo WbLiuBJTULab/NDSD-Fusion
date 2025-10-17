@@ -77,10 +77,10 @@ python3 test.py --cfg_file ${CONFIG_FILE} --batch_size ${BATCH_SIZE} --ckpt ${CK
 
 ## Acknowledgement
 
-Virconv[here](https://github.com/hailanyi/VirConv)
+[Virconv](https://github.com/hailanyi/VirConv)
 
-SIIV[here](https://ieeexplore.ieee.org/abstract/document/10412668)
+[SIIV](https://ieeexplore.ieee.org/abstract/document/10412668)
 
-LoGoNet[here](https://github.com/PJLab-ADG/LoGoNet)
+[LoGoNet](https://github.com/PJLab-ADG/LoGoNet)
 
-OpenPCDet[here](https://github.com/open-mmlab/OpenPCDet)
+[OpenPCDet](https://github.com/open-mmlab/OpenPCDet)
