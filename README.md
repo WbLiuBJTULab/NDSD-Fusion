@@ -1,5 +1,7 @@
 # NDSD-Fusion
 
+This is a official code release of NDSD-Fusion for 3D Object Detection. 
+
 ## Getting Started
 
 conda create -n ndsd python=3.9
