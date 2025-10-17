@@ -1,6 +1,6 @@
 # NDSD-Fusion
 
-# # Getting Started
+## Getting Started
 
 conda create -n ndsd python=3.9
 conda activate ndsd
