@@ -64,6 +64,7 @@ python3 train.py --cfg_file ${CONFIG_FILE}
 </pre>
 Multiple GPU train:
 <pre>
+# 4 GPUs
 cd tools
 CUDA_VISIBLE_DEVICES=0,1,2,3  python3 -m torch.distributed.launch --nproc_per_node=4 --master_addr="localhost" --master_port=29501 train.py  --launcher pytorch > log.txt&
 </pre>
@@ -76,10 +77,10 @@ python3 test.py --cfg_file ${CONFIG_FILE} --batch_size ${BATCH_SIZE} --ckpt ${CK
 
 ## Acknowledgement
 
-Virconv
+Virconv[here](https://github.com/hailanyi/VirConv)
 
-SIIV
+SIIV[here](https://ieeexplore.ieee.org/abstract/document/10412668)
 
-OpenPCDet
+LoGoNet[here](https://github.com/PJLab-ADG/LoGoNet)
 
-LoGoNet
+OpenPCDet[here](https://github.com/open-mmlab/OpenPCDet)
