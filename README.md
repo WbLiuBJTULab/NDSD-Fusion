@@ -30,22 +30,22 @@ MLFIS dataset: The pseudo points can be generated through projecting the RGB ima
 
 Anyway, the data structure should be:
 <pre>
-ndsd\
-├── data\
-│   ├── kitti\
-│   │   │── ImageSets\
-│   │   │── training\
-│   │   │   ├──calib & velodyne & label_2 & image_2 & (optional: planes) & velodyne_depth\
-│   │   │── testing\
-│   │   │   ├──calib & velodyne & image_2 & velodyne_depth\
-│   │   │── gt_database_mm\
-│   │   │── kitti_dbinfos_train_mm.pkl\
-│   │   │── kitti_infos_test.pkl\
-│   │   │── kitti_infos_train.pkl\
-│   │   │── kitti_infos_trainval.pkl\
-│   │   │── kitti_infos_val.pkl\
-├── pcdet\
-├── tools\
+ndsd
+├── data
+│   ├── kitti
+│   │   │── ImageSets
+│   │   │── training
+│   │   │   ├──calib & velodyne & label_2 & image_2 & (optional: planes) & velodyne_depth
+│   │   │── testing
+│   │   │   ├──calib & velodyne & image_2 & velodyne_depth
+│   │   │── gt_database_mm
+│   │   │── kitti_dbinfos_train_mm.pkl
+│   │   │── kitti_infos_test.pkl
+│   │   │── kitti_infos_train.pkl
+│   │   │── kitti_infos_trainval.pkl
+│   │   │── kitti_infos_val.pkl
+├── pcdet
+├── tools
 </pre>
 
 ## Setup
