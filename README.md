@@ -77,6 +77,8 @@ python3 test.py --cfg_file ${CONFIG_FILE} --batch_size ${BATCH_SIZE} --ckpt ${CK
 
 ## Acknowledgement
 
+Inspiration and Baseline Methods：
+
 [Virconv](https://github.com/hailanyi/VirConv)
 
 [SIIV](https://ieeexplore.ieee.org/abstract/document/10412668)
